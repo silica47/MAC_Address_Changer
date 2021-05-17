@@ -13,7 +13,7 @@ All the changes will reset once you restart your computer.
 ```
 
 
-###_How to use this script?_
+### _How to use this script?_
 ```
 1. Open your terminal.
 2. sudo python3 mac_changer.py -i <name-of-interface> -m <your-temporary-MAC-address>
