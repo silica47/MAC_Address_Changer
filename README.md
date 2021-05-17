@@ -1,3 +1,3 @@
-# MAC Address Changer
+### MAC Address Changer
 
-This python script changes your MAC Address temporarily 
+This python script changes your MAC Address temporarily on Linux
