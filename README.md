@@ -1,7 +1,6 @@
 # _MAC Address Changer_
 
-This python script changes your MAC Address temporarily on your GNU/Linux machine.
-By this you can increase your anonymity.
+This python script changes your MAC Address temporarily on your GNU/Linux machine by this you can increase your anonymity.
 All the changes will reset once you restart your computer.
 
 ### _How to do this manually?_
